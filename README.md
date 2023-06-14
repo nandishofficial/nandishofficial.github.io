@@ -1,6 +1,6 @@
 # Nandish's Website
 
-Where link, huh?
+Link: nandishofficial.github.io
 
 
 Some Notes:
