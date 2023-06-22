@@ -2,6 +2,4 @@
 
 Link: nandishofficial.github.io
 
-
-Some Notes:
-There are naming conventions used everywhere in this repository. If you want the nitty-gritty details, contact me.
+Want to connect, connect at nandish.patel@uwaterloo.ca
